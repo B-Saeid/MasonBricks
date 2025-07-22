@@ -1,3 +1,3 @@
-# MasonBricks
+# FlutterBricks
 
-My re-usable bricks for Flutter.
+My re-usable mason bricks for Flutter.
